@@ -1,0 +1,15 @@
+# Naga Gosain Sadhus’ solidarity with Awadh
+
+Created: 19/07/2022 20:01
+
+#article #indian-history #opportunists
+
+Source: [[Ananth Karthikeyan]] : [DNA India article about Dasanamis](https://www.dnaindia.com/analysis/column-naga-gosain-sadhus-solidarity-with-awadh-2568169) [Pocket link](https://getpocket.com/read/3210229098)
+
+## My thoughts
+- In the [[Third Battle of Panipat]] we can see that the Dasanamis (Nagas, Gossains and sadhus) fought with [[Ahmad Shah Durrani (Abdali)]] against the [[Maratha]] Empire. And later they fought with the [[Maratha]] against others. So they were just opportunists willing to do anything to exercise their control.
+
+## Fleeting Notes
+- "Awadh state comprised prime lands in the Gangetic Plain, and once upon a time was the jewel in the Mughal crown. The ruling dynasty was Shiite but a majority of the Awadhi populace was Hindu. Moreover, most of their Muslim subjects were Sunnis. The Nawabs understood the need for a balancing act given the demographics and the chaotic political scenario."
+- "When the Marathas made their push northwards in 1760 C.E., the Afghan King [[Ahmad Shah Durrani (Abdali)]] was invited to invade India by Shah Waliullah, a leading fundamentalist cleric. The Afghan-origin Rohilkhand rulers and the Mughals, fearful of the Marathas, allied with Abdali. The proximity of these two states — and the swift Abdali invasion — forced Nawab Shuja-ud-Daula (the successor of Safdar Jung) to ally with Abdali after failed efforts to broker peace. In this largely Islamist alliance, the Gosain Sadhus fully supported the Nawab against their own co-religionists. They reportedly fielded over 10,000 men for battle. On the other hand, one of the most potent forces in the Maratha army was the Deccani Muslim musketeer infantry led Ibrahim Shah Gardi. The gory tale of the [[Third Battle of Panipat]] is well known; the Gosains fought well as per chroniclers. Before the battle, Abdali was actually incensed at the sight of thousands of naked heathens in his encampment. It took some adept maneuvering by Shuja-ud-Daula to avoid fights within the camp. After proving themselves in the battle the Gosains gathered the bodies of the fallen [[Maratha]] leaders and cremated them according to Hindu rites. The Nawab reportedly had to pay a princely sum to Abdali so that his allies could perform these last rites."
+- "The Gosains continued to aid Awadh – notably in the [[Battle of Buxar]] against the British in 1764. The British decisively won this watershed battle and the Gosains realized that the Awadh state was finished. As a roving force they offered services to various powers. In a twist of fate, the Gosains under Anupgiri became a major ally in the later Maratha campaigns. The Gosains also aided Bajirao and Mastani’s grandson Ali Bahadur (whose father had fallen in Panipat) carve out a Maratha vassal state in Banda. In this period Anupgiri himself rose to be the de-facto king of a swathe of Bundelkhand."

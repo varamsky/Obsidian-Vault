@@ -1,0 +1,23 @@
+
+# Didda – A Critical Examination of the Career of the Controversial Queen of Kashmir
+
+Created: 28/07/2022 14:26
+
+#article #indian-history #kashmir-history
+
+Source: [[Shanmukh]] [[Saswati Sarkar]] [[Kirtivardhan Dave]] [[Dikgaj]] : [SringeriBelur article about Didda with actual Sanskrit quotes](https://sringeribelur.wordpress.com/didda-a-critical-examination-of-the-career-of-the-controversial-queen-of-kashmir/)
+
+This article talks about Didda presenting quotes from the original Sanskrit text as proof.
+
+## My thoughts
+- 
+
+## Fleeting Notes
+- "**Didda’s Widowhood and Attempted Sati** - ...while sati may have been fashionable in some quarters, there was no stigma attached to a woman not committing sati. Didda certainly faced no blame for not committing sati. Further, Didda was not the first widow of a king not to commit sati, but accept the regency or may be, even ascend the throne herself. Just a few decades earlier, Queen Sugandha had not committed commit sati without facing any recriminations... However, *there was no stigma attached to not committing sati, and this indicates the free society that Kashmir already was in the tenth century* and which did not penalise those not following any custom, however fashionable. This is in perfect consonance with the prevalent ethics of the Hindu society, which, at its core, is a free society."
+- "However, the honourable Phalguna had no desire to foment a rebellion. Having demonstrated his strength, he long bemoaned his departed master Raja Kshemagupta and then cast away his arms at the feet of Varahaswami. **By so doing, he removed all suspicions of treachery from the queen’s mind**. *With the retirement of Phalguna, the other ministers who had long chafed under his energetic and resourceful management of them, celebrated like students celebrating the departure of their teacher*.
+
+   ...we should examine this narrative a bit more closely. When Phalguna desired to move to Parnotsa, he had no thoughts of abdicating his responsibilities, let alone his position. He just desired greater security till his son, Kardamaraja, returned with his force to Kashmir. Further, when he evaded Didda’s guardsmen and started gathering an army, he does not seem to have had any thoughts of surrendering his weapons at the feet of Varahaswami. It leaves the field open to speculation why he surrendered tamely. *The same Phalguna would return as Didda’s lover several years later*. Consequently, it is quite possible that Phalguna’s decision to surrender his arms was actuated more out of the weakness of his position, and deciding not to test his strength when he was convinced of his weakness, he chose to surrender to save himself. It is also very likely that Didda, given her Machiavellian cunning, and her control of the royal treasury, undercut his support and forced his surrender. However, since Phalguna surrendered his weapons peacefully and left Kashmir for the time, he probably saved his own life."
+- "**Mahima’s Conspiracy to Dethrone Didda** - A previous king, Parvagupta, had given his daughters to two ministers named Choja and Bhubhata, who had sworn fealty to him, and these two had a son each named, **Mahima** and Patala. These two had grown up in the royal household and they were both desirous of the kingdom, and conspiring with great nobles like Himmaka and others. Didda chased these two out of the royal household, but angry at being driven out, they still had entry into the royal household and were entering and leaving the palace at will....Terrified, Mahima fled to his father-in-law’s named Shaktisena home and Shaktisena pacified the guards that had followed him there, and sent them back...To the side of Mahima came several nobles...There was great panic on Didda’s side, and *only the minister, **Naravahana**, with his relatives, stood steadfastly at the queen’s side*. Counting on self-seeking ambition to work better than gold in bribery, she offered **Yashodhara** the position of कम्पनाधिपति and other nobles on Mahima’s side were offered high offices too. Having bought them off, she proceeded to perform, within just a few days, अभिचार on the hapless Mahima and he was dead . **With Mahima dead, the writ of the queen ran unchallenged in Kashmir**." 
+  
+   "The word अभिचार has been often used by Kalhana and there is some question about what exactly it means. Literally, it means forbidden practice But it means witchcraft too, as witchcraft is also a forbidden practice. Nevertheless, witchcraft is just a subset of the wider set of forbidden practices.."
+- 
