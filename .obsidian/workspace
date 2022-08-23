@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature/Didda – A Critical Examination of the Career of the Controversial Queen of Kashmir.md",
+            "file": "Literature/Heroic Hindu Resistance To Muslim Invaders (636 AD to 1206 AD).md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Didda – A Critical Examination of the Career of the Controversial Queen of Kashmir.md",
+                "file": "Literature/Heroic Hindu Resistance To Muslim Invaders (636 AD to 1206 AD).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Didda – A Critical Examination of the Career of the Controversial Queen of Kashmir.md",
+                "file": "Literature/Heroic Hindu Resistance To Muslim Invaders (636 AD to 1206 AD).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -117,11 +117,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Didda – A Critical Examination of the Career of the Controversial Queen of Kashmir.md"
+                "file": "Literature/Heroic Hindu Resistance To Muslim Invaders (636 AD to 1206 AD).md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,15 +131,15 @@
   },
   "active": "7fc590b15e7312a5",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Literature/Heroic Hindu Resistance To Muslim Invaders (636 AD to 1206 AD).md",
     "Literature/Didda, Controversial Queen Of Kashmir.md",
+    "Literature/Lalitaditya.md",
     "Literature/Didda – A Critical Examination of the Career of the Controversial Queen of Kashmir.md",
-    "History/Indian History/Didda.md",
-    "Dikgaj.md",
+    "Literature/The Story of the Integration of the Indian States.md",
     "Literature/The Arts of Seduction.md",
-    "History/Indian History/Shukracharya.md",
-    "Literature/The Dasanami Sannayasis as ascetics and warriors in late 18th and 19th centuries.md",
-    "Literature/Obvious to you, Amazing to others.md",
-    "Literature/Naga Gosain Sadhus’ solidarity with Awadh.md",
-    "Literature/India, that is Bharat.md"
+    "Literature/India, that is Bharat.md",
+    "Literature/Valmiki Ramayanam - Balakanda.md",
+    "History/Indian History/Tara.md"
   ]
 }
