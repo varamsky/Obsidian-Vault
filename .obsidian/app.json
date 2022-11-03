@@ -4,5 +4,6 @@
   "livePreview": false,
   "promptDelete": false,
   "trashOption": "local",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
 }

@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "f369b6329061781e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6419c38afc0de7e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a3f9634e66f9623",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4276acf78559c58",
+    "type": "split",
+    "children": [
+      {
+        "id": "51afe31fabce6325",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "234558bad04ca369",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b3fa27a44df8a40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f87564801d88df3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f3e5cc0b59db4aa1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a3161a2976f5db5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baf29aa6f7fe3bb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "daa20cc4fe9814b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "17b50b3765f5853b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cff27ed339d542a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 214.5,
+    "collapsed": true
+  },
+  "active": "7a3f9634e66f9623",
+  "lastOpenFiles": [
+    "Plant knowledge/Sal Tree.md",
+    "Bird knowledge/Myna.md",
+    "Plant knowledge/Cannon Ball Tree.md",
+    "Plant knowledge/dd.md",
+    "Templates/Tree Template.md",
+    "image of flowers/fruits/leaves of the tree.md",
+    "Templates/Note Template.md",
+    "Plant knowledge/Gulmohar.md",
+    "History/Indian History/Didda.md",
+    "History/Indian History/Kacha.md"
+  ]
+}
