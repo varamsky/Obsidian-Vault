@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d6f3029e9698f44d",
+        "id": "5f6a3ca07b43aa8c",
         "type": "tabs",
         "children": [
           {
-            "id": "d1d752524abc904b",
+            "id": "e2e97f45047ab406",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Plant knowledge/Sal Tree.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Plant knowledge/Sal Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Plant knowledge/Sal Tree.md"
+              }
             }
           }
         ],
@@ -131,15 +135,15 @@
   },
   "active": "234558bad04ca369",
   "lastOpenFiles": [
+    "Plant knowledge/Gulmohar.md",
+    "Plant knowledge/Cannon Ball Tree.md",
     "Bird knowledge/Greater Coucal.md",
     "Bird knowledge/Red-naped ibis or Indian black ibis.md",
     "Bird knowledge/Myna.md",
+    "Bird knowledge/Indian Pond Heron.md",
     "Literature/Didda, Controversial Queen Of Kashmir.md",
     "History/Indian History/Didda.md",
     "History/Indian History/Tara.md",
-    "History/Indian History/Brihaspati.md",
-    "History/Indian History/Kacha.md",
-    "Literature/Heroic Hindu Resistance To Muslim Invaders (636 AD to 1206 AD).md",
-    "Literature/Obvious to you, Amazing to others.md"
+    "History/Indian History/Brihaspati.md"
   ]
 }
