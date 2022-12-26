@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5f6a3ca07b43aa8c",
+        "id": "c3533de2db72efda",
         "type": "tabs",
         "children": [
           {
-            "id": "e2e97f45047ab406",
+            "id": "7e5d7ef114bdcabf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 223.5
   },
   "right": {
     "id": "f3e5cc0b59db4aa1",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plant knowledge/Sal Tree.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plant knowledge/Sal Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Plant knowledge/Sal Tree.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -133,17 +129,17 @@
     "width": 214.5,
     "collapsed": true
   },
-  "active": "234558bad04ca369",
+  "active": "7e5d7ef114bdcabf",
   "lastOpenFiles": [
-    "Plant knowledge/Gulmohar.md",
-    "Plant knowledge/Cannon Ball Tree.md",
-    "Bird knowledge/Greater Coucal.md",
-    "Bird knowledge/Red-naped ibis or Indian black ibis.md",
-    "Bird knowledge/Myna.md",
-    "Bird knowledge/Indian Pond Heron.md",
-    "Literature/Didda, Controversial Queen Of Kashmir.md",
-    "History/Indian History/Didda.md",
+    "Literature/Valmiki Ramayanam - Balakanda.md",
+    "Literature/India, Bharat and Pakistan.md",
+    "Literature/Heroic Hindu Resistance To Muslim Invaders (636 AD to 1206 AD).md",
+    "Literature/India, that is Bharat.md",
+    "Literature/The Arts of Seduction.md",
+    "Literature/Didda – A Critical Examination of the Career of the Controversial Queen of Kashmir.md",
     "History/Indian History/Tara.md",
-    "History/Indian History/Brihaspati.md"
+    "History/Indian History/Shukracharya.md",
+    "History/Indian History/Samgramaraja.md",
+    "Bird knowledge/Greater Coucal.md"
   ]
 }
