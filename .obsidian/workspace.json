@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c3533de2db72efda",
+        "id": "8bcd51fa043646bb",
         "type": "tabs",
         "children": [
           {
-            "id": "7e5d7ef114bdcabf",
+            "id": "cceaee21eb0df839",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -129,17 +129,27 @@
     "width": 214.5,
     "collapsed": true
   },
-  "active": "7e5d7ef114bdcabf",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "234558bad04ca369",
   "lastOpenFiles": [
+    "Bird knowledge/Shikra.md",
+    "Bird knowledge/Myna.md",
+    "Bird knowledge/Red-naped ibis or Indian black ibis.md",
+    "Bird knowledge/Indian Pond Heron.md",
+    "Bird knowledge/Greater Coucal.md",
+    "assets/images/Shikra_bird.jpg",
+    "assets/images/Greater_Coucal_bird.jpeg",
     "Literature/Valmiki Ramayanam - Balakanda.md",
     "Literature/India, Bharat and Pakistan.md",
-    "Literature/Heroic Hindu Resistance To Muslim Invaders (636 AD to 1206 AD).md",
-    "Literature/India, that is Bharat.md",
-    "Literature/The Arts of Seduction.md",
-    "Literature/Didda – A Critical Examination of the Career of the Controversial Queen of Kashmir.md",
-    "History/Indian History/Tara.md",
-    "History/Indian History/Shukracharya.md",
-    "History/Indian History/Samgramaraja.md",
-    "Bird knowledge/Greater Coucal.md"
+    "Literature/Heroic Hindu Resistance To Muslim Invaders (636 AD to 1206 AD).md"
   ]
 }
