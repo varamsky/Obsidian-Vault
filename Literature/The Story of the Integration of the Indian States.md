@@ -7,7 +7,7 @@ Created: 23/08/2022 18:44
 Source: [[V. P. Menon]] : [[The Story of the Integration of the Indian States]]
 
 ## My Thoughts
-1. "It must be emphasized.....rise of national consciousness." - Signs of coloniality in his thoughts that the colonisers gave India identity of a united nation!?
+1. "It must be emphasized.....rise of national consciousness." - Signs of coloniality in his thoughts that the colonisers gave India identity of a united nation!? - but he mentioned political unity and not cultural which might be true ... not sure.
 2. ""A definite pattern....theatres of war." - Really? I know that Gandhi promoted the idea of Indians fighting in the World Wars. But were the princely states' rulers also advocates of this move?"
 3. "Britain claimed...announcement of 20 August 1917:" - Contrasting language as opposed to the previous highlights where he suggested that India as an entity was formed by the British
 4. "The policy...British Empire." - Maybe the British govt. realised that the Indians are colonised enough to slowly give them control of their destiny so that they continue to believe that they rule themselves but in reality the British Christian colonial ideology would rule us all.

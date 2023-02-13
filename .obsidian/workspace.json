@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8bcd51fa043646bb",
+        "id": "065b2f0fbd1c4f7d",
         "type": "tabs",
         "children": [
           {
-            "id": "cceaee21eb0df839",
+            "id": "e120921692f5944b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Literature/India, Bharat and Pakistan.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Literature/India, Bharat and Pakistan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Literature/India, Bharat and Pakistan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Literature/India, Bharat and Pakistan.md"
+              }
             }
           }
         ],
@@ -139,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "234558bad04ca369",
+  "active": "e120921692f5944b",
   "lastOpenFiles": [
-    "Bird knowledge/Shikra.md",
-    "Bird knowledge/Myna.md",
-    "Bird knowledge/Red-naped ibis or Indian black ibis.md",
-    "Bird knowledge/Indian Pond Heron.md",
-    "Bird knowledge/Greater Coucal.md",
-    "assets/images/Shikra_bird.jpg",
-    "assets/images/Greater_Coucal_bird.jpeg",
-    "Literature/Valmiki Ramayanam - Balakanda.md",
+    "Literature/Untitled.canvas",
     "Literature/India, Bharat and Pakistan.md",
-    "Literature/Heroic Hindu Resistance To Muslim Invaders (636 AD to 1206 AD).md"
+    "Literature/India, that is Bharat.md",
+    "Literature/Naga Gosain Sadhus’ solidarity with Awadh.md",
+    "Literature/Obvious to you, Amazing to others.md",
+    "Literature/Prisoners In Finland Live In Open Prisons Where They Learn Tech Skills.md",
+    "Literature/Sanskrit Shloka.md",
+    "Literature/The Arts of Seduction.md",
+    "Literature/The Dasanami Sannayasis as ascetics and warriors in late 18th and 19th centuries.md",
+    "Literature/The Story of the Integration of the Indian States.md"
   ]
 }
