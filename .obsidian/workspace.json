@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "065b2f0fbd1c4f7d",
+        "id": "04befbb433818f18",
         "type": "tabs",
         "children": [
           {
-            "id": "e120921692f5944b",
+            "id": "622786ba9a4ab468",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/India, Bharat and Pakistan.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/India, Bharat and Pakistan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/India, Bharat and Pakistan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Literature/India, Bharat and Pakistan.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,17 +139,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e120921692f5944b",
+  "active": "622786ba9a4ab468",
   "lastOpenFiles": [
-    "Literature/Untitled.canvas",
-    "Literature/India, Bharat and Pakistan.md",
-    "Literature/India, that is Bharat.md",
-    "Literature/Naga Gosain Sadhus’ solidarity with Awadh.md",
-    "Literature/Obvious to you, Amazing to others.md",
-    "Literature/Prisoners In Finland Live In Open Prisons Where They Learn Tech Skills.md",
-    "Literature/Sanskrit Shloka.md",
-    "Literature/The Arts of Seduction.md",
-    "Literature/The Dasanami Sannayasis as ascetics and warriors in late 18th and 19th centuries.md",
-    "Literature/The Story of the Integration of the Indian States.md"
+    "Bird knowledge/Shikra.md",
+    "assets/images/White_throated_Kingfisher_bird.jpg",
+    "Bird knowledge/White-throated kingfisher.md",
+    "Bird knowledge/Red-naped ibis or Indian black ibis.md",
+    "Bird knowledge/Jungle Babbler.md",
+    "assets/images/Jungle_Babbler_bird.JPG",
+    "Bird knowledge/Myna.md",
+    "Plant knowledge/Palash.md",
+    "assets/images/Palash_Tree.jpg",
+    "Plant knowledge/Gulmohar.md"
   ]
 }
