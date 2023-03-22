@@ -2,7 +2,7 @@
 
 Created: 13/03/2023 13:51
 
-#bird #white-throated-kingfisher
+#bird #white-throated-kingfisher-bird
 
 [[White_throated_Kingfisher_bird.jpg]] [[Eggs_of_White_throated_kingfisher.jpg]]
 
