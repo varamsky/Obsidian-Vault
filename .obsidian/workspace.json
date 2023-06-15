@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e161c6a8bce59cbb",
+        "id": "6cf873d952666c9f",
         "type": "tabs",
         "children": [
           {
-            "id": "317ed99511e76da5",
+            "id": "ca0ffcfca5298951",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature/Sanskrit Shloka.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -64,12 +60,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "aad672583a7c79ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 235.5
   },
   "right": {
     "id": "f3e5cc0b59db4aa1",
@@ -85,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature/Sanskrit Shloka.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature/Sanskrit Shloka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Literature/Sanskrit Shloka.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,33 +147,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "317ed99511e76da5",
+  "active": "ca0ffcfca5298951",
   "lastOpenFiles": [
-    "Bird knowledge/Black hooded oriole.md",
-    "Literature/Sanskrit Shloka.md",
+    "Literature/Prisoners In Finland Live In Open Prisons Where They Learn Tech Skills.md",
+    "Literature/India, Bharat and Pakistan.md",
+    "Literature/Didda – A Critical Examination of the Career of the Controversial Queen of Kashmir.md",
+    "SSC CGL form 2023.pdf",
+    "Literature/Heroic Hindu Resistance To Muslim Invaders (636 AD to 1206 AD).md",
+    "Literature/Didda, Controversial Queen Of Kashmir.md",
+    "History/Indian History/प्रद्योतवंशः (Pradyota Dynasty)/प्रद्योतवंशः (Pradyota Dynasty).md",
+    "Literature/India, that is Bharat.md",
+    "History/Indian History/हर्यङ्कवंशः (Haryanka Dynasty)/हर्यङ्कवंशः (Haryanka Dynasty).md",
+    "History/Indian History/बृहद्रथवंशः (Brihadratha Dynasty)/बृहद्रथवंशः (Brihadratha Dynasty).md",
+    "History/Indian History/प्रद्योतवंशः (Pradyota Dynasty)/प्रद्योत (Pradyota).md",
+    "History/Indian History/Brihaspati.md",
+    "History/Indian History/Dasanami.md",
+    "History/Indian History/Kacha.md",
+    "History/Indian History/Magadha Empires.md",
+    "History/Indian History/Samgramaraja.md",
+    "History/Indian History/Viradha.md",
+    "History/Indian History/Khalsa.md",
+    "History/Indian History/Shukracharya.md",
+    "History/Indian History/Tara.md",
+    "History/Indian History/Tumbaru.md",
+    "History/Indian History/हर्यङ्कवंशः (Haryanka Dynasty)",
+    "History/Indian History/बृहद्रथवंशः (Brihadratha Dynasty)/जरासन्ध (Jarasandha).md",
+    "History/Indian History/प्रद्योतवंशः (Pradyota Dynasty)/शिशुनाग (Shishunaga).md",
+    "History/Indian History/प्रद्योतवंशः (Pradyota Dynasty)/Shishunaga.md",
+    "History/Indian History/बृहद्रथवंशः (Brihadratha Dynasty)/बृहद्रथ (Brihadratha).md",
+    "History/Indian History/प्रद्योतवंशः (Pradyota Dynasty)",
+    "History/Indian History/बृहद्रथवंशः (Brihadratha Dynasty)",
+    "History/Indian History/बृहद्रथवंशः (Brihadratha Dynasty)/रिपुंजय (Ripunjaya).md",
+    "History/Indian History/बृहद्रथवंशः (Brihadratha Dynasty)/मगध का सहदेव (Sahadeva of Magadha).md",
     "assets/images/White_throated_Kingfisher_bird.jpg",
-    "Bird knowledge/White-throated kingfisher.md",
-    "Bird knowledge/White-breasted waterhen.md",
     "assets/images/Eggs_of_black_hooded_oriole.jpg",
     "assets/audio/Black_hooded_Oriole_calls.ogg",
     "assets/images/Black_hooded_oriole_bird.jpg",
-    "Bird knowledge/Greater Coucal.md",
-    "History/Spanish History/Romani.md",
-    "Bird knowledge/Shikra.md",
     "assets/images/Eggs_of_White_breasted_waterhen.jpg",
     "assets/images/White-breasted waterhen bird.jpg",
-    "image_of_flowers/fruits/leaves_of_the_tree.md",
     "image_of_flowers/fruits",
     "image_of_flowers",
     "assets/audio/White_breasted_waterhen_calls.ogg",
     "assets/audio/Calls_of_White_breasted_waterhen.ogg",
-    "Bird knowledge/Red-naped ibis or Indian black ibis.md",
-    "Bird knowledge/Myna.md",
-    "Bird knowledge/Jungle Babbler.md",
-    "Bird knowledge/Indian Pond Heron.md",
     "assets/images/Jungle_Babbler_bird.JPG",
-    "Plant knowledge/Palash.md",
-    "assets/images/Palash_Tree.jpg",
-    "Plant knowledge/Gulmohar.md"
+    "assets/images/Palash_Tree.jpg"
   ]
 }

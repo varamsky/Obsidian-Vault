@@ -6,7 +6,7 @@ Created: 23/08/2022 18:54
 Source: [[Sita Ram Goel]] : [[Heroic Hindu Resistance To Muslim Invaders (636 AD to 1206 AD)]]
 
 ## My Thoughts
-1. "He also quotes...total failure." - From 632 AD to 709 AD, the Arab Muslim armies defeated many empires including the Persian [[Sassanid Empire]] and had their influence over the vast stretch from the Atlantic Ocean in North-western Africa to the western borders of India. But they had to struggle for 69 years just to infiltrate the borders of India.
+1. "He also quotes...total failure." - From 632 AD to 709 AD (only 77 years), the Arab Muslim armies defeated many empires including the Persian [[Sassanid Empire]] and had their influence over the vast stretch from the Atlantic Ocean in North-western Africa to the western borders of India. But they had to struggle for 69 years just to infiltrate the borders of India.
 2. "The Arab invasion of Sindh...“Sindh or Hind”." - India started facing attacks from Muslim Arabs as early as 634 AD but none were successful.
 
 

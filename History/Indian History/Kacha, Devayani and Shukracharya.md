@@ -9,7 +9,7 @@ This story is a part of the eternal [[Deva-Asura Sangram]].
 Introduced by: Tried and Refused Productions - Youtube Channel
 #tried-and-refused-productions
 
-Original source: [[Mahabharat]] [[Matsya Purana]] [[Agni Purana]]
+Original source: [[महाभारत (Mahabharata)]] [[Matsya Purana]] [[Agni Purana]]
 
 - We know that the Devas and [[Asura]]s are eternally at war with each other, symbolising the eternal struggle between good and evil.
 - The Devas has [[Brihaspati]] as their guru whereas the [[Asura]]s had [[Shukracharya]] as their guru. [[Shukracharya]] knew something that [[Brihaspati]] didn't. He knew about Mrit Sanjivani, a technique to revive the dead.
