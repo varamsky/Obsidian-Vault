@@ -11,7 +11,7 @@ This dynasty was found after eliminating the Nanda Dynasty.
 
 ## List of Rulers
 
-- [[चंद्रगुप्त मौर्य (Chandragupta Maurya)]] - Founder of the Maurya Dynasty
+- [[चन्द्रगुप्त मौर्य (Chandragupta Maurya)]] - Founder of the Maurya Dynasty
 - [[बिन्दुसार मौर्य (Bindusara)]]
 - [[अशोक (Ashoka)]]
 - [[दशरथ मौर्य (Dashratha)]]

@@ -21,8 +21,8 @@ The chronological listing of the मगध empires are listed below:
 - [[हर्यङ्कवंशः (Haryanka Dynasty)]]
 - [[शिशुनागवंशः (Shishunaga Dynasty)]]
 - [[नन्दवंशः (Nanda Dynasty)]]
-- [[मौर्यवंशः (Maurya Dynasty)]]
-- [[शुङ्गवंशः (Shunga Dynasty)]]
+- [[मौर्यवंशः (Maurya Dynasty)]] - around 322 BCE to 184 BCE
+- [[शुङ्गवंशः (Shunga Dynasty)]] - around 185 BCE to 73 BCE
 - [[कण्ववंशः (Kanva Dynasty)]] - around 73 to 26 BCE
 
 __Here, I have mentioned [[प्रद्योतवंशः (Pradyota Dynasty)]] as the successor dynasty after the [[बृहद्रथवंशः (Brihadratha Dynasty)]] whereas [Mahabharat is history; Brihadratha Dynasty](https://www.youtube.com/watch?v=d5FPyKxUFjo) mentions the [[हर्यङ्कवंशः (Haryanka Dynasty)]] as the successor dynasty.__

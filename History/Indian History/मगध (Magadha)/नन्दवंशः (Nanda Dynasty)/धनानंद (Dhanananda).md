@@ -3,7 +3,7 @@
 Created: 20/06/2023 13:18
 
 Predecessor - Kaivarta or [[महापद्म नंद (Mahāpadmānanda)]]
-Successor - [[धनानंद (Dhanananda)]]
+Successor - [[चन्द्रगुप्त मौर्य (Chandragupta Maurya)]]
 
 Children - Pabbata (son)
 Parents - [[महापद्म नंद (Mahāpadmānanda)]] (father), _ (mother)

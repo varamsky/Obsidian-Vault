@@ -12,7 +12,7 @@ He was also known as उग्रसेन (Ugrasena). He was the founder of the
 
 In the Puranas he is called Mahāpadmānanda whereas, in the Buddhist texts he is called Ugrasena.
 
-Different texts mentions different successor but here we will consider Dhanananda as the next influential successor.
+Different texts mentions different successor but here we will consider Dhanananda as the next _influential_ successor.
 
 ## Mentions
 
