@@ -4,35 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "cd735175aa871661",
+        "id": "d4a00b7b54919ad5",
         "type": "tabs",
         "children": [
           {
-            "id": "3cf9b6482e82d56f",
+            "id": "415e0bb3d20f2675",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "History/Indian History/मगध (Magadha)/Magadha Empires.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           },
           {
-            "id": "aec171617c828473",
+            "id": "f4de62553198536b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Indian History/मगध (Magadha)/मौर्यवंशः (Maurya Dynasty)/चन्द्रगुप्त मौर्य (Chandragupta Maurya).md",
-                "mode": "source",
-                "source": false
+                "file": "History/Indian History/मगध (Magadha)/मौर्यवंशः (Maurya Dynasty)/मौर्यवंशः (Maurya Dynasty).md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d6f643d653f8f6c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Indian History/मगध (Magadha)/शुङ्गवंशः (Shunga Dynasty)/शुङ्गवंशः (Shunga Dynasty).md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a4ba2bdf6056eea8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Indian History/मगध (Magadha)/शुङ्गवंशः (Shunga Dynasty)/पुष्यमित्र शुङ्ग (Pushyamitra Shunga).md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "53d456d5bad6fd02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Indian History/मगध (Magadha)/शुङ्गवंशः (Shunga Dynasty)/अग्निमित्र (Agnimitra).md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Indian History/मगध (Magadha)/मौर्यवंशः (Maurya Dynasty)/चन्द्रगुप्त मौर्य (Chandragupta Maurya).md",
+                "file": "History/Indian History/मगध (Magadha)/शुङ्गवंशः (Shunga Dynasty)/पुष्यमित्र शुङ्ग (Pushyamitra Shunga).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,9 +159,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Indian History/मगध (Magadha)/मौर्यवंशः (Maurya Dynasty)/चन्द्रगुप्त मौर्य (Chandragupta Maurya).md",
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "file": "History/Indian History/मगध (Magadha)/शुङ्गवंशः (Shunga Dynasty)/पुष्यमित्र शुङ्ग (Pushyamitra Shunga).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -137,16 +173,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "cff27ed339d542a2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "History/Indian History/मगध (Magadha)/मौर्यवंशः (Maurya Dynasty)/चन्द्रगुप्त मौर्य (Chandragupta Maurya).md"
               }
             }
           }
@@ -167,12 +193,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "234558bad04ca369",
+  "active": "a4ba2bdf6056eea8",
   "lastOpenFiles": [
+    "History/Indian History/मगध (Magadha)/शुङ्गवंशः (Shunga Dynasty)/शुङ्गवंशः (Shunga Dynasty).md",
+    "History/Indian History/मगध (Magadha)/शुङ्गवंशः (Shunga Dynasty)/पुष्यमित्र शुङ्ग (Pushyamitra Shunga).md",
+    "History/Indian History/मगध (Magadha)/मौर्यवंशः (Maurya Dynasty)/मौर्यवंशः (Maurya Dynasty).md",
+    "History/Indian History/मगध (Magadha)/शुङ्गवंशः (Shunga Dynasty)/अग्निमित्र (Agnimitra).md",
+    "History/Indian History/मगध (Magadha)/Magadha Empires.md",
+    "History/Indian History/प्रायद्वीप (Peninsula)/Peninsular Empires.md",
+    "History/Indian History/मध्य (Central)/Central Indian empires.md",
+    "History/Indian History/पश्चिम (Western)/Empires of Western India.md",
+    "History/Indian History/मगध (Magadha)/कण्ववंशः (Kanva Dynasty)/कण्ववंशः (Kanva Dynasty).md",
+    "History/Indian History/Samgramaraja.md",
+    "History/Indian History/Viradha.md",
+    "Literature/प्रहेलिकाः.md",
+    "Literature/सुभाषितानि.md",
+    "Literature/Valmiki Ramayanam - Balakanda.md",
+    "History/Indian History/मगध (Magadha)/बृहद्रथवंशः (Brihadratha Dynasty)/बृहद्रथवंशः (Brihadratha Dynasty).md",
+    "History/Indian History/मगध (Magadha)/प्रद्योतवंशः (Pradyota Dynasty)/प्रद्योतवंशः (Pradyota Dynasty).md",
     "History/Indian History/मगध (Magadha)/मौर्यवंशः (Maurya Dynasty)/Alexander.md",
     "History/Indian History/मगध (Magadha)/मौर्यवंशः (Maurya Dynasty)/चन्द्रगुप्त मौर्य (Chandragupta Maurya).md",
-    "History/Indian History/मगध (Magadha)/मौर्यवंशः (Maurya Dynasty)/मौर्यवंशः (Maurya Dynasty).md",
-    "History/Indian History/मगध (Magadha)/Magadha Empires.md",
     "History/Indian History/मगध (Magadha)/महाजनपद/वत्स.md",
     "History/Indian History/मगध (Magadha)/महाजनपद/कोसल.md",
     "History/Indian History/मगध (Magadha)/महाजनपद/महाजनपद.md",
@@ -182,20 +222,6 @@
     "History/Indian History/मगध (Magadha)/Untitled.md",
     "History/Indian History/मगध (Magadha)/हर्यङ्कवंशः (Haryanka Dynasty)/नागदशक (Nagadasaka).md",
     "History/Indian History/मगध (Magadha)/हर्यङ्कवंशः (Haryanka Dynasty)/उदायिन (Udayin).md",
-    "History/Indian History/मगध (Magadha)/हर्यङ्कवंशः (Haryanka Dynasty)/अजातशत्रु (Ajātaśatru).md",
-    "History/Indian History/मगध (Magadha)/प्रद्योतवंशः (Pradyota Dynasty)/प्रद्योत (Pradyota).md",
-    "History/Indian History/मगध (Magadha)/नन्दवंशः (Nanda Dynasty)/धनानंद (Dhanananda).md",
-    "History/Indian History/मगध (Magadha)/चाणक्य.md",
-    "History/Indian History/मगध (Magadha)/वर्धमान महावीर.md",
-    "History/Indian History/मगध (Magadha)/आम्रपाली.md",
-    "History/Indian History/प्रायद्वीप (Peninsula)/Peninsular Empires.md",
-    "History/Indian History/प्रायद्वीप (Peninsula)/सातवाहन वंश.md",
-    "History/Indian History/मगध (Magadha)/नन्दवंशः (Nanda Dynasty)/महापद्म नंद (Mahāpadmānanda).md",
-    "History/Indian History/मगध (Magadha)/नन्दवंशः (Nanda Dynasty)/नन्दवंशः (Nanda Dynasty).md",
-    "History/Indian History/Kacha, Devayani and Shukracharya.md",
-    "History/Spanish History/Alhambra - The Royal Palace.md",
-    "History/Spanish History/Heritage Sites in Spain.md",
-    "History/Spanish History/Spanish History Notes.md",
     "उदायिन (Udayin) ",
     "History/Indian History/पूर्व ()/Untitled",
     "History/Indian History/उत्तर पूर्व (North-Eastern)",
