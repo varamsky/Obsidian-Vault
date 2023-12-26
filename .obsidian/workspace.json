@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d4a00b7b54919ad5",
+        "id": "fcf077b52f825308",
         "type": "tabs",
         "children": [
           {
-            "id": "415e0bb3d20f2675",
+            "id": "fdcd411d7071a6e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Indian History/मगध (Magadha)/Magadha Empires.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f4de62553198536b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Indian History/मगध (Magadha)/मौर्यवंशः (Maurya Dynasty)/मौर्यवंशः (Maurya Dynasty).md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d6f643d653f8f6c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Indian History/मगध (Magadha)/शुङ्गवंशः (Shunga Dynasty)/शुङ्गवंशः (Shunga Dynasty).md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a4ba2bdf6056eea8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Indian History/मगध (Magadha)/शुङ्गवंशः (Shunga Dynasty)/पुष्यमित्र शुङ्ग (Pushyamitra Shunga).md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "53d456d5bad6fd02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Indian History/मगध (Magadha)/शुङ्गवंशः (Shunga Dynasty)/अग्निमित्र (Agnimitra).md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Indian History/मगध (Magadha)/शुङ्गवंशः (Shunga Dynasty)/पुष्यमित्र शुङ्ग (Pushyamitra Shunga).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Indian History/मगध (Magadha)/शुङ्गवंशः (Shunga Dynasty)/पुष्यमित्र शुङ्ग (Pushyamitra Shunga).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,6 +119,14 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "4c358cfc0f76929c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
             }
           }
         ],
@@ -193,35 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4ba2bdf6056eea8",
+  "active": "fdcd411d7071a6e4",
   "lastOpenFiles": [
+    "Literature/The Darkening Age.md",
+    "Literature/South India and her Muhammadan Invaders.md",
+    "Literature/प्रहेलिकाः.md",
+    "Literature/India, Bharat and Pakistan.md",
+    "Literature/India, that is Bharat.md",
+    "Literature/Didda, Controversial Queen Of Kashmir.md",
+    "Literature/Prisoners In Finland Live In Open Prisons Where They Learn Tech Skills.md",
+    "Literature/सुभाषितानि.md",
+    "Literature/Didda – A Critical Examination of the Career of the Controversial Queen of Kashmir.md",
+    "Literature/The Story of the Integration of the Indian States.md",
+    "History/Indian History/मगध (Magadha)/Magadha Empires.md",
+    "History/Indian History/मगध (Magadha)/मौर्यवंशः (Maurya Dynasty)/मौर्यवंशः (Maurya Dynasty).md",
     "History/Indian History/मगध (Magadha)/शुङ्गवंशः (Shunga Dynasty)/शुङ्गवंशः (Shunga Dynasty).md",
     "History/Indian History/मगध (Magadha)/शुङ्गवंशः (Shunga Dynasty)/पुष्यमित्र शुङ्ग (Pushyamitra Shunga).md",
-    "History/Indian History/मगध (Magadha)/मौर्यवंशः (Maurya Dynasty)/मौर्यवंशः (Maurya Dynasty).md",
     "History/Indian History/मगध (Magadha)/शुङ्गवंशः (Shunga Dynasty)/अग्निमित्र (Agnimitra).md",
-    "History/Indian History/मगध (Magadha)/Magadha Empires.md",
     "History/Indian History/प्रायद्वीप (Peninsula)/Peninsular Empires.md",
     "History/Indian History/मध्य (Central)/Central Indian empires.md",
     "History/Indian History/पश्चिम (Western)/Empires of Western India.md",
     "History/Indian History/मगध (Magadha)/कण्ववंशः (Kanva Dynasty)/कण्ववंशः (Kanva Dynasty).md",
     "History/Indian History/Samgramaraja.md",
     "History/Indian History/Viradha.md",
-    "Literature/प्रहेलिकाः.md",
-    "Literature/सुभाषितानि.md",
     "Literature/Valmiki Ramayanam - Balakanda.md",
     "History/Indian History/मगध (Magadha)/बृहद्रथवंशः (Brihadratha Dynasty)/बृहद्रथवंशः (Brihadratha Dynasty).md",
     "History/Indian History/मगध (Magadha)/प्रद्योतवंशः (Pradyota Dynasty)/प्रद्योतवंशः (Pradyota Dynasty).md",
     "History/Indian History/मगध (Magadha)/मौर्यवंशः (Maurya Dynasty)/Alexander.md",
     "History/Indian History/मगध (Magadha)/मौर्यवंशः (Maurya Dynasty)/चन्द्रगुप्त मौर्य (Chandragupta Maurya).md",
-    "History/Indian History/मगध (Magadha)/महाजनपद/वत्स.md",
-    "History/Indian History/मगध (Magadha)/महाजनपद/कोसल.md",
-    "History/Indian History/मगध (Magadha)/महाजनपद/महाजनपद.md",
-    "History/Indian History/मगध (Magadha)/गौतम बुद्ध.md",
-    "History/Indian History/मगध (Magadha)/हर्यङ्कवंशः (Haryanka Dynasty)/बिम्बिसार (Bimbisara).md",
     "History/Indian History/मगध (Magadha)/महाजनपद",
-    "History/Indian History/मगध (Magadha)/Untitled.md",
-    "History/Indian History/मगध (Magadha)/हर्यङ्कवंशः (Haryanka Dynasty)/नागदशक (Nagadasaka).md",
-    "History/Indian History/मगध (Magadha)/हर्यङ्कवंशः (Haryanka Dynasty)/उदायिन (Udayin).md",
     "उदायिन (Udayin) ",
     "History/Indian History/पूर्व ()/Untitled",
     "History/Indian History/उत्तर पूर्व (North-Eastern)",
