@@ -10,6 +10,7 @@ Scientific name: Couroupita guianensis
 Local name: नागलिङ्गम् / कैलाशपति
 Native to: Tropical forests of Central and South America
 Type: पतझड़ी / पर्णपाती / Deciduous
+Sightings: I see this near Bijli Kothi, B. Deoghar
 
 ## Uses
 1. Ornamental

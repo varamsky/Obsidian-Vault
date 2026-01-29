@@ -14,6 +14,7 @@ Scientific name:
 Local name: 
 Native to: 
 Type: 
+Sightings: 
 
 ## Uses
 1. 

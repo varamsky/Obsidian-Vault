@@ -10,6 +10,7 @@ Scientific name: Butea monosperma
 Local name: पलाश / तमाल / परसा / ढाक
 Native to: South Asia and South East Asia
 Type: पतझड़ी / पर्णपाती / Deciduous
+Sightings: I saw this at Nandan Pahad back-side, B. Deoghar
 
 Palash is  the State Flower of Jharkhand and Uttar Pradesh.
 

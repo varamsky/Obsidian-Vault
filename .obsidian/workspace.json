@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5f881a653ff7afe7",
+        "id": "0c0a053848f7426c",
         "type": "tabs",
         "children": [
           {
-            "id": "7268f21728c6cf8f",
+            "id": "9c1f7974d648c976",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Plant knowledge/Kachnar.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "aliases",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +66,7 @@
             }
           },
           {
-            "id": "aad672583a7c79ff",
+            "id": "a0010675077d9d19",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 391.5
   },
   "right": {
     "id": "f3e5cc0b59db4aa1",
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Plant knowledge/Kachnar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,8 +110,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Plant knowledge/Kachnar.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -122,11 +128,13 @@
             }
           },
           {
-            "id": "4c358cfc0f76929c",
+            "id": "cff27ed339d542a2",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Plant knowledge/Kachnar.md"
+              }
             }
           }
         ],
@@ -134,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 214.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,50 +155,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7268f21728c6cf8f",
+  "active": "9c1f7974d648c976",
   "lastOpenFiles": [
+    "assets/images/Kachnar_tree_in_Shri_Ram_Janambhoomi_Mandir_Dhwaja.jpg",
+    "Plant knowledge/Kachnar.md",
+    "assets/images/Unconfirmed 706079.crdownload",
+    "Plant knowledge/Palash.md",
+    "Plant knowledge/Sal Tree.md",
+    "Plant knowledge/Jamun.md",
+    "Plant knowledge/Gulmohar.md",
+    "Plant knowledge/Cannon Ball Tree.md",
+    "Plant knowledge/Champa tree.md",
+    "Templates/Tree Template.md",
+    "Bird knowledge/White-throated kingfisher.md",
+    "assets/images/Camel_foot_leaves_of_Kachnar.jpg",
+    "assets/images/Unconfirmed 530062.crdownload",
+    "assets/images/Kachnar_tree.jpg",
+    "assets/images/Flowers_of_Kachnar.jpg",
+    "assets/images/Unconfirmed 140512.crdownload",
+    "assets/images/Unconfirmed 758263.crdownload",
+    "assets/images/Fruits_of_Jamun.webp",
+    "assets/images/Flowers_of_Jamun.jpeg",
+    "assets/images/Unconfirmed 369333.crdownload",
+    "assets/images/Unconfirmed 47128.crdownload",
+    "2026-01-29.md",
+    "assets/images/Champa_tree.webp",
+    "assets/images/Flowers_of_Champa_tree.webp",
+    "assets/images/Unconfirmed 235378.crdownload",
+    "History/Indian History/मगध (Magadha)/आम्रपाली.md",
+    "History/Indian History/मगध (Magadha)/गौतम बुद्ध.md",
+    "Bird knowledge/Shikra.md",
+    "Bird knowledge/White-breasted waterhen.md",
+    "Bird knowledge/Red-naped ibis or Indian black ibis.md",
+    "Bird knowledge/Myna.md",
+    "Bird knowledge/Jungle Babbler.md",
+    "Bird knowledge/Indian Pond Heron.md",
+    "Bird knowledge/Greater Coucal.md",
+    "Bird knowledge/Black hooded oriole.md",
+    "assets/images/Eggs_of_black_hooded_oriole.jpg",
+    "assets/images/White_throated_Kingfisher_bird.jpg",
+    "assets/audio/White_throated_Kingfisher_calls.ogg",
+    "assets/audio/White_breasted_waterhen_calls.ogg",
+    "assets/audio/Shikra_calls.ogg",
+    "Literature/सुभाषितानि.md",
     "Literature/प्रहेलिकाः.md",
     "Literature/The Darkening Age.md",
     "Literature/South India and her Muhammadan Invaders.md",
-    "Literature/India, Bharat and Pakistan.md",
-    "Literature/India, that is Bharat.md",
-    "Literature/Didda, Controversial Queen Of Kashmir.md",
-    "Literature/Prisoners In Finland Live In Open Prisons Where They Learn Tech Skills.md",
-    "Literature/सुभाषितानि.md",
-    "Literature/Didda – A Critical Examination of the Career of the Controversial Queen of Kashmir.md",
-    "Literature/The Story of the Integration of the Indian States.md",
-    "History/Indian History/मगध (Magadha)/Magadha Empires.md",
-    "History/Indian History/मगध (Magadha)/मौर्यवंशः (Maurya Dynasty)/मौर्यवंशः (Maurya Dynasty).md",
-    "History/Indian History/मगध (Magadha)/शुङ्गवंशः (Shunga Dynasty)/शुङ्गवंशः (Shunga Dynasty).md",
-    "History/Indian History/मगध (Magadha)/शुङ्गवंशः (Shunga Dynasty)/पुष्यमित्र शुङ्ग (Pushyamitra Shunga).md",
-    "History/Indian History/मगध (Magadha)/शुङ्गवंशः (Shunga Dynasty)/अग्निमित्र (Agnimitra).md",
-    "History/Indian History/प्रायद्वीप (Peninsula)/Peninsular Empires.md",
-    "History/Indian History/मध्य (Central)/Central Indian empires.md",
-    "History/Indian History/पश्चिम (Western)/Empires of Western India.md",
-    "History/Indian History/मगध (Magadha)/कण्ववंशः (Kanva Dynasty)/कण्ववंशः (Kanva Dynasty).md",
-    "History/Indian History/Samgramaraja.md",
-    "History/Indian History/Viradha.md",
-    "Literature/Valmiki Ramayanam - Balakanda.md",
-    "History/Indian History/मगध (Magadha)/बृहद्रथवंशः (Brihadratha Dynasty)/बृहद्रथवंशः (Brihadratha Dynasty).md",
-    "History/Indian History/मगध (Magadha)/प्रद्योतवंशः (Pradyota Dynasty)/प्रद्योतवंशः (Pradyota Dynasty).md",
-    "History/Indian History/मगध (Magadha)/मौर्यवंशः (Maurya Dynasty)/Alexander.md",
-    "History/Indian History/मगध (Magadha)/मौर्यवंशः (Maurya Dynasty)/चन्द्रगुप्त मौर्य (Chandragupta Maurya).md",
-    "History/Indian History/मगध (Magadha)/महाजनपद",
-    "उदायिन (Udayin) ",
-    "History/Indian History/पूर्व ()/Untitled",
-    "History/Indian History/उत्तर पूर्व (North-Eastern)",
-    "History/Indian History/पूर्व (Eastern)",
-    "History/Indian History/उत्तर (Northern)",
-    "History/Indian History/पश्चिम (Western)",
-    "History/Indian History/मध्य (Central)",
-    "History/Indian History/प्रायद्वीप (Peninsula)/Untitled",
-    "History/Indian History/प्रायद्वीप (Peninsula)",
-    "assets/images/White_throated_Kingfisher_bird.jpg",
-    "assets/images/Eggs_of_black_hooded_oriole.jpg",
-    "assets/images/Black_hooded_oriole_bird.jpg",
-    "assets/images/Eggs_of_White_breasted_waterhen.jpg",
-    "assets/images/White-breasted waterhen bird.jpg",
-    "assets/images/Jungle_Babbler_bird.JPG",
-    "assets/images/Palash_Tree.jpg"
+    "Literature/India, Bharat and Pakistan.md"
   ]
 }

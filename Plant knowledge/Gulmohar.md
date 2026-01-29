@@ -10,6 +10,7 @@ Scientific Name: Delonix regia
 Local name: गुलमोहर / राज-आभरण / कृष्ण-चूड
 Native to: Madagascar
 Type: सदाबहार / चिरहरित / Evergreen
+Sightings: I saw this opposite Mahavir Electronics, B. Deoghar
 
 It is called Raj-Abharan(राज-आभरण) or KrishnaChuda(कृष्ण चूडा) in Sanskrit. It is called कृष्ण चूड because it is used to decorate the crown of Shri Krishna.
 

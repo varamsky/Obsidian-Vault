@@ -9,7 +9,6 @@ Created: 13/03/2023 13:51
 Scientific name: Halcyon smyrnensis
 Local name: श्वेतकण्ठ कौड़िल्ला
 Native to: South Asia
+Sightings: I saw this first on our visit to [[Kashi]].
 
 ![White_throated_kingfisher_calls](./../assets/audio/White_throated_Kingfisher_calls.ogg)
-
-I saw this first on our visit to Kashi.
